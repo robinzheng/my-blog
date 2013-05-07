@@ -1,4 +1,4 @@
-my-blog
+Just record something which I'm interested in
 =======
 
-My blog
+This is My blog
